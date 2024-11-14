@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Daniel-Marim
 - 🌱 I'm currently learning programming
 - 🌱 Studying software engineering in Pará
-- 📫 How to reach me: [Email](daniel.amadormarim@gmail.com) | [Linkedin](www.linkedin.com/in/daniel-marim-dev)
+- 📫 How to reach me: [Email](mailto:daniel.amadormarim@gmail.com) | [Linkedin](https://www.linkedin.com/in/daniel-marim-dev)
